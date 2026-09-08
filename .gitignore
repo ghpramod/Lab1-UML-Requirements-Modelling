@@ -1,0 +1,12 @@
+# System files
+*.tmp
+*.log
+Thumbs.db
+.DS_Store
+
+# Node/Python cache
+__pycache__/
+*.pyc
+*.html
+generate_*.py
+build_*.py
